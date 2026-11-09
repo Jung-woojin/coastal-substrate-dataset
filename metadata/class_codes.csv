@@ -1,0 +1,20 @@
+raster,value,class_name,khoa_legend_ko,khoa_legend_en,target5_value,pixels
+labels_raw,1,sand,사빈; 해역 모래,sand beach; sea sand,1,294150
+labels_raw,2,gravel,육역 자갈; 사석; 해역 자갈,gravel (land); riprap; gravel (sea),2,194549
+labels_raw,3,mud,육역 뻘; 해역 뻘; 해역 모래뻘(2015 도엽),mud (land); mud (sea); sandy mud (sea; 2015 sheets),3,590508
+labels_raw,4,rock,암석; 해역 암반,rock (land); bedrock (sea),4,343950
+labels_raw,5,river,하천,river,0,205446
+labels_raw,6,road,도로,road,0,2099122
+labels_raw,7,tetrapod,TTP,tetrapod (TTP),0,18993
+labels_raw,8,soil,토양,soil,0,462236
+labels_raw,9,building,건물,building,0,557409
+labels_raw,10,farmland,농경지,farmland,0,2657301
+labels_raw,11,forest,산림,forest,0,8711971
+labels_raw,254,water,,not a legend class: NDWI >= 0 on the image at acquisition,0,21445708
+labels_raw,255,ignore,,not a legend class: unlabelled or invalid pixel,255,11111905
+labels_target5,0,background,,,0,36158186
+labels_target5,1,sand,,,1,294150
+labels_target5,2,gravel,,,2,194549
+labels_target5,3,mud,,,3,590508
+labels_target5,4,rock,,,4,343950
+labels_target5,255,ignore,,,255,11111905
